@@ -1,12 +1,12 @@
 <?php echo getcwd() . "\n";
 
-
+/*
 $dir = '/challenge/web-serveur/ch13/';
 $files1 = scandir($dir);
 
 print_r($files1);
 
-echo "<br><br><br>";
+echo "<br><br><br>";*/
 
 
 
